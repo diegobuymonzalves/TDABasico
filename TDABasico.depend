@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1604187523 source:c:\users\marni\documents\develop\cpp\tdabasico\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fcntl.h>
+	<io.h>
+	<exception>
+
+1604198046 source:c:\users\sp314-51\downloads\tdabasico\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fcntl.h>
+	<io.h>
+	<exception>
+
